@@ -1,0 +1,1 @@
+This folder should contain other scenes in the game, like title screen, endgame scene, etc
