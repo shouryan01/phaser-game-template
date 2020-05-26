@@ -1,2 +1,2 @@
 # phaser-game-template
-a game template to quickly start making phaser javascript games
+A game template to quickly start making javascript games using the Phaser game engine. 
